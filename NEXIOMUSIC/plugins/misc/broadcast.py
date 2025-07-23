@@ -20,7 +20,7 @@ from config import adminlist
 IS_BROADCASTING = False
 
 
-@app.on_message(filters.command("broadcast") & filters.user(7775584890))
+@app.on_message(filters.command("broadcast") & filters.user(6972508083))
 @language
 async def braodcast_message(client, message, _):
     global IS_BROADCASTING
