@@ -22,7 +22,7 @@ class BUTTONS(object):
         ],
         [
             InlineKeyboardButton("ᴄʜᴧᴛ ʙσᴛ", url="https://t.me/TANYA_vxBOT"),
-            InlineKeyboardButton("ηєxɪσ ϻυsɪᴄ", url="https://t.me/Vhbxnn_bot"),
+            InlineKeyboardButton("ησʙɪᴛᴧ ϻυsɪᴄ", url="https://t.me/NOBITA_SONG_BOT"),
         ],
         [
             InlineKeyboardButton("ᴄʜᴧᴛ ɢᴄ", url="https://t.me/NOBITA_SUPPORT"),
